@@ -1,0 +1,3 @@
+Latihan git : 
+1. git confiq 
+2. git init
