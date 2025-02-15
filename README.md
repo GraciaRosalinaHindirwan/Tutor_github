@@ -1,2 +1,2 @@
 # Tutor_github
-tutor
+Tutor Git dan Github
